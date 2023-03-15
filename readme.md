@@ -19,7 +19,7 @@
 <br>
 <h2>Link para o projeto</h2>
 
-Clique  [aqui](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md) para acessar o projeto
+Clique  [aqui](https://raru8.github.io/Calculator/) para acessar o projeto
 <br>
 <h2>Licença</h2>
 <p>Este projeto está licenciado sob a Licença MIT. Leia o arquivo LICENSE para obter mais informações.</p>
